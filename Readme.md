@@ -39,3 +39,7 @@ This project scrapes the **Billboard Top 100** data and provides an efficient wa
    ```bash
    git clone https://github.com/yourusername/web-scraping-billboard.git
    cd web-scraping-billboard
+
+1. Install dependencies:
+   ```bash
+   pip install -r requirements
